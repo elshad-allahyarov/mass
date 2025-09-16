@@ -1,0 +1,11 @@
+\documentclass[11pt]{article}
+% Force single-column article and neutralize any \documentclass in the input file
+\makeatletter
+\def\documentclass{\@ifnextchar[\mod@docclass@gobbleopt\mod@docclass@gobble}
+\def\mod@docclass@gobbleopt[#1]#2{}
+\def\mod@docclass@gobble#1{}
+\makeatother
+
+% Input the original paper content
+\input{Masses-Paper1-Single-Anchor.tex}
+
