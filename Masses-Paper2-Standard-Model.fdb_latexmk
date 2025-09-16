@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757981572.69847 "Masses-Paper2-Standard-Model.tex" "Masses-Paper2-Standard-Model.pdf" "Masses-Paper2-Standard-Model" 1757981572.96628 0
+["pdflatex"] 1757984758.7085 "Masses-Paper2-Standard-Model.tex" "Masses-Paper2-Standard-Model.pdf" "Masses-Paper2-Standard-Model" 1757984758.9789 0
   "/etc/texmf/web2c/texmf.cnf" 1757981508.24035 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/ubuntu/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk" 1757981572.34433 20008 da5392d0d3fd998ab9d9645bece7d757 ""
   "/home/ubuntu/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk" 1757981572.62432 21952 fcd231d614ff8497759ffe14ff80a83b ""
@@ -116,9 +116,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757981511 165211 6b08d096f3d0fe5ff6b266061a2b45e0 ""
-  "Masses-Paper2-Standard-Model.aux" 1757981572.91632 10295 add094ec551c5d5ddb4eb62f62ed7762 "pdflatex"
-  "Masses-Paper2-Standard-Model.out" 1757981572.91632 1406 893f6c080e6bb31d6b712cf2978c2204 "pdflatex"
-  "Masses-Paper2-Standard-Model.tex" 1757981442.10439 50553 42a40459447d2c668a53f553712b9f29 ""
+  "Masses-Paper2-Standard-Model.aux" 1757984758.93133 10421 6b298a10067aa0b0dba00e5cb24964d8 "pdflatex"
+  "Masses-Paper2-Standard-Model.out" 1757984758.93133 1406 893f6c080e6bb31d6b712cf2978c2204 "pdflatex"
+  "Masses-Paper2-Standard-Model.tex" 1757984730.0394 50927 fc42f67a87429ee2541b6e7f215872bf ""
   (generated)
   "Masses-Paper2-Standard-Model.aux"
   "Masses-Paper2-Standard-Model.log"

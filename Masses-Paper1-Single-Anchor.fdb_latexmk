@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757981813.46679 "Masses-Paper1-Single-Anchor.tex" "Masses-Paper1-Single-Anchor.pdf" "Masses-Paper1-Single-Anchor" 1757981813.79708 2
+["pdflatex"] 1757984757.98853 "Masses-Paper1-Single-Anchor.tex" "Masses-Paper1-Single-Anchor.pdf" "Masses-Paper1-Single-Anchor" 1757984758.36516 2
   "/etc/texmf/web2c/texmf.cnf" 1757981508.24035 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/ubuntu/.texlive2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1757981556 1958727 8190c86d1ba693d8d9ec93a7a374b5a6 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -173,9 +173,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757981511 165211 6b08d096f3d0fe5ff6b266061a2b45e0 ""
-  "Masses-Paper1-Single-Anchor.aux" 1757981813.74825 3420 dad16bc45399489de6c4d6cc242a5d4d "pdflatex"
-  "Masses-Paper1-Single-Anchor.out" 1757981813.74825 1595 042e8be132248bcabdc2a628d85d200e "pdflatex"
-  "Masses-Paper1-Single-Anchor.tex" 1757981806.62825 126177 9e0ea79fe96fed4612797dd1819899c6 ""
+  "Masses-Paper1-Single-Anchor.aux" 1757984758.31533 3746 30c668dcff2eca60173a9e24bbf14fbb "pdflatex"
+  "Masses-Paper1-Single-Anchor.out" 1757984758.31533 1806 438fe3553021a29c5b71d892488e9edf "pdflatex"
+  "Masses-Paper1-Single-Anchor.tex" 1757984723.12741 127695 e31e050ba567bce87502ab84f957d279 ""
   (generated)
   "Masses-Paper1-Single-Anchor.aux"
   "Masses-Paper1-Single-Anchor.log"

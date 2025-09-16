@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757981812.97657 "Masses-Paper3-Ribbons-Braids.tex" "Masses-Paper3-Ribbons-Braids.pdf" "Masses-Paper3-Ribbons-Braids" 1757981813.39623 2
+["pdflatex"] 1757984759.04716 "Masses-Paper3-Ribbons-Braids.tex" "Masses-Paper3-Ribbons-Braids.pdf" "Masses-Paper3-Ribbons-Braids" 1757984759.47183 2
   "/etc/texmf/web2c/texmf.cnf" 1757981508.24035 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/ubuntu/.texlive2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1757981556 1958727 8190c86d1ba693d8d9ec93a7a374b5a6 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -168,9 +168,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757981511 165211 6b08d096f3d0fe5ff6b266061a2b45e0 ""
-  "Masses-Paper3-Ribbons-Braids.aux" 1757981813.34825 9414 89761957ea6f8426fb167afa75d121b0 "pdflatex"
-  "Masses-Paper3-Ribbons-Braids.out" 1757981813.34825 2791 2368029e9771c97bacfd6805ae5384a6 "pdflatex"
-  "Masses-Paper3-Ribbons-Braids.tex" 1757981748.53626 113783 07253d0e2c40ec6ff008b43c90c9baa2 ""
+  "Masses-Paper3-Ribbons-Braids.aux" 1757984759.41933 10640 587367a60af78fbe3ff93fcd644ffbf6 "pdflatex"
+  "Masses-Paper3-Ribbons-Braids.out" 1757984759.42333 2791 2368029e9771c97bacfd6805ae5384a6 "pdflatex"
+  "Masses-Paper3-Ribbons-Braids.tex" 1757984737.83538 114070 ab9b9a347dbacee9c1112a890925bc54 ""
   (generated)
   "Masses-Paper3-Ribbons-Braids.aux"
   "Masses-Paper3-Ribbons-Braids.log"
