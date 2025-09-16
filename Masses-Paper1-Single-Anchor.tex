@@ -21,6 +21,7 @@
 \smartqed
 \journalname{Eur. Phys. J. C}
 \usepackage{amsmath,amssymb}
+\usepackage{enumitem}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,calc}
 \usepackage{graphicx}
@@ -270,6 +271,8 @@ m_i(\mu_\star)=m_i(\mu_0)\exp\!\left(\int_{\ln\mu_0}^{\ln\mu_\star}\gamma_i(\mu)
 \label{eq:pdg-transport}
 \]
 \noindent\textbf{Audit recipe (transport then compare).}
+\usepackage{enumitem}
+...
 \begin{enumerate}[label={(\roman*)}]
   \item Take PDG input $m_i^{\rm PDG}(\mu_0)$ at its quoted reference scale.
   \item Transport to $\mu_\star$ via Eq.~\eqref{eq:pdg-transport} using the \emph{same} kernels/policy as predictions to obtain $m_i^{\rm PDG\to\mu_\star}$.
